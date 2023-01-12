@@ -930,7 +930,7 @@
 1043 Stock control to validate the installation
 1044 By list
 1045 By visual
-1046 Statut
+1046 Status
 1047 INFO
 1048 Add file
 1049 BAD ACTION
